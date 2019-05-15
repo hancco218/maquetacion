@@ -1,0 +1,33 @@
+<DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MI BIOGRAFIA</title>
+    <link rel="stylesheet" type= "text/css"href= "estilos.css" media="screen">
+</head>
+<body>
+  <header>
+    <section id="banner">
+        <h1 align="center"><i> MI AUTOBIOGRAFIA</i> </h1>
+        <div id="foto-perfil"><img src="foto.jpg" /></div>
+       
+    </section>
+  </header>
+  <nav> 
+    
+    <<a href="mis datos.html" class="left"><span> <img src="datos.jpeg" class="icono"> </span> MIS DATOS</a>
+    <a href="family.html" class="left"><span> <img src="familia.png" class="icono"> </span> MI FAMILIA</a>
+    <a href="academico.html" class="right"><span> <img src="images.jpeg" class="icono"> </span> ACAEMICO</a>
+    <a href="pasar tiempo.html" class="right"><span> <img src="pasar.jpeg" class="icono"> </span> PASATIEMPOS</a>
+  </nav>
+  <main>
+    <article>
+      Estudie la primaria en la institucion educativa primaria 72597-machacmarca esto culmine de manera satisfactoria, la secundaria estuve el distrito de llalli el Istitucion Educativa Agropecuario "Miguel Grau" bueno esta fue la etapa en la que conoci nuevos amig@s hasta el momento puedo decir que fue hermosa de excurcion fuimos a la cciudad de cusco -una de las maravillas de  del mundo "machupicchu" no fue como lo hubiera deseado pero fue unico, tambien realizamos el baile de promociön, mi promocion tiene wl nombre de; ALENNO "Tyrone Jose Gonzales Orama-2017" bueno despues de la clausura esta
+      ayude ami mama alrededor de un mes luego me vine a la ciudad de puno para reforzarde en mis esttudios bueno ingrese a la carrera de Ingeniria de sistemas en setiembre mediante la modalidad del cepre-una.
+
+    </article>
+    
+  </main>
+  <footer><center>Copyright © 2019 hancco velarde. All Rights Reserved.</center></footer>
+  </body>
+  </html>
