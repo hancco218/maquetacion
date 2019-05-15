@@ -1,0 +1,45 @@
+
+<DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MI BIOGRAFIA</title>
+    <link rel="stylesheet" type= "text/css"href= "estilos.css" media="screen">
+</head>
+<body>
+  <header>
+    <section id="banner">
+        <h1 align="center"><i> MI AUTOBIOGRAFIA</i> </h1>
+        <div id="foto-perfil"><img src="foto.jpg" /></div>
+       
+    </section>
+  </header>
+  <nav> 
+    
+    <a href="mis datos.html" class="left"><span> <img src="datos.jpeg" class="icono"> </span> MIS DATOS</a>
+    <a href="family.html" class="left"><span> <img src="familia.png" class="icono"> </span> MI FAMILIA</a>
+    <a href="academico.html" class="right"><span> <img src="images.jpeg" class="icono"> </span> ACAEMICO</a>
+    <a href="pasar tiempo.html" class="right"><span> <img src="pasar.jpeg" class="icono"> </span> PASATIEMPOS</a>
+  </nav>
+  <main>
+    <article>Mis datos:
+
+      <ul>
+        <li><b>NOMBRES:</b> Myrian Rosmery </li>
+        <li><b>APELLIDO PATERNO:</b> Hancco </li>
+        <li><b>APELLIDO MATERNO:</b> Velarde </li>
+        <li><b>FECHA DE NACIMIENTO:</b> 18 de marzo del 2001 </li>
+        <li><b>LUGAR DE NACIMIENTO:</b> Machacmarca-Cupi-Melgar-Puno </li>
+        <li><b>TALLA:</b> 1.52 cm </li>
+        <li><b>PESO:</b> 57 kg </li>
+        <li><b>DNI:</b> 73584183 </li>
+        
+      </ul>
+
+    </article>
+    
+  </main>
+  <footer><center>Copyright © 2019 hancco velarde. All Rights Reserved.</center></footer>
+
+  </body>
+  </html>
