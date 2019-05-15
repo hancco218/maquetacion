@@ -1,0 +1,42 @@
+
+<DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MI BIOGRAFIA</title>
+    <link rel="stylesheet" type= "text/css"href= "estilos.css" media="screen">
+</head>
+<body>
+  <header>
+    <section id="banner">
+        <h1 align="center"><i> MI AUTOBIOGRAFIA</i> </h1>
+        <div id="foto-perfil"><img src="foto.jpg" /></div>
+       
+    </section>
+  </header>
+  <nav> 
+    <a href="mis datos.html" class="left"><span> <img src="datos.jpeg" class="icono"> </span> MIS DATOS</a>
+    <a href="family.html" class="left"><span> <img src="familia.png" class="icono"> </span> MI FAMILIA</a>
+    <a href="academico.html" class="right"><span> <img src="images.jpeg" class="icono"> </span> ACAEMICO</a>
+    <a href="pasar tiempo.html" class="right"><span> <img src="pasar.jpeg" class="icono"> </span> PASATIEMPOS</a>
+  </nav>
+  <main>
+    <article>
+      Mis pasatiempos favoritos son:
+      <ul>
+        
+        <li>  Ver películas en casa o en el cine: </li>
+        <li>  escuchar musica  </li>
+        <li>  salir a caminar  </li>
+        <li>  aprender nuevas cosas relacionado a mi carrera  </li>
+        <li>  compartir con mi familia  </li>
+      </ul>
+
+
+    </article>
+    
+  </main>
+  <footer><center>Copyright © 2019 hancco velarde. All Rights Reserved.</center></footer>
+
+  </body>
+  </html>
